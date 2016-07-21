@@ -5,7 +5,7 @@ package java.Introduction;
  * 
  * There is no input for this challenge.
  * 
- * Output Format
+ * Output Formatw
  * 
  * You must print two lines of output:
  * 
