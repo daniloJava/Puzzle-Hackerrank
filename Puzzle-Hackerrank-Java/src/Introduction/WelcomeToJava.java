@@ -1,4 +1,4 @@
-package java.Introduction;
+package Introduction;
 
 /**
  * Problema Input Format
