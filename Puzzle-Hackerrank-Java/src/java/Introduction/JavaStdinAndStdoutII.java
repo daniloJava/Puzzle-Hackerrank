@@ -3,7 +3,7 @@ package java.Introduction;
 import java.util.Scanner;
 
 /**
- * Input Format
+ * Input Format.
  * 
  * There are three lines of input:
  * 
